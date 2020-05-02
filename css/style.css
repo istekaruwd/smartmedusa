@@ -260,8 +260,8 @@ a:hover {
 	text-align: left;
 	padding: 15px;
 }
-.product-desc-content table tr td ol,
-.product-desc-content table tr td ul {
+.product-description ol,
+.product-description ul {
 	padding-left: 15px;
 }
 
